@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `chat` MODIFY `msg` VARCHAR(255) NOT NULL;
